@@ -6,6 +6,6 @@
 *....
 
 ### Screenshots
-![Pong Game](https://github.com/dsitien/math-util-1625/blob/main/image/DDTTest.PNG)
+![Pong Game](https://github.com/dsitien/PongGame/blob/main/img/Capture.PNG)
 
 #### © 2023 dsitien
